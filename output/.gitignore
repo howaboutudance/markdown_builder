@@ -1,0 +1,9 @@
+# ignore all pandoc output formats
+*.pdf
+*.docx
+*.odt
+*.html
+*.epub
+*.md
+*.tex
+*.jira
